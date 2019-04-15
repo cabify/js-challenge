@@ -37,7 +37,7 @@ Examples:
     Total: 74.50€
     
 
-Using modern JavaScrpt (ES6 or if you prefer, Typescript), you should implement a checkout process that fulfills the requirements. In order to provide a solution, you should take into acocunt the following aspects:
+Using modern JavaScript (ES6 or if you prefer, Typescript), you should implement a checkout process that fulfills the requirements. In order to provide a solution, you should take into acocunt the following aspects:
 
 - Deliver production-ready code
 - Provide a solution that could be easy to grow and easy to add new functionality.
